@@ -7,6 +7,9 @@ Start you node project by cloneing the repository
 install node the latest version and npm the latest version
 
 once cloned the repository, open it in VS Code environment. 
+ npm install express
+
+
 
 Open terminal and write the below mentioned script
 
